@@ -1,0 +1,51 @@
+,order_id,product,quantity,age,uk_region,cpa,month,year
+0,1,toothbrush,1,21,UK North East,2,Oct,21
+1,2,toys,2,35,UK South East,3,Oct,21
+2,3,toothbrush,1,24,UK North,2,Oct,21
+3,4,toothbrush,1,21,UK North East,4,Dec,21
+4,5,toothbrush,2,20,UK North,5,Oct,21
+5,6,toothbrush,1,22,UK North East,2,Dec,21
+6,7,toothbrush,2,24,UK South East,1,Oct,21
+7,8,toothbrush,1,21,UK North East,6,Dec,21
+8,9,toothbrush,1,24,UK North,7,Oct,21
+9,10,toothbrush,1,21,UK North East,9,Dec,21
+10,11,toothbrush,1,24,UK South East,10,Oct,21
+11,12,toothbrush,1,21,UK North East,2,Dec,21
+12,13,toys,2,35,UK South East,3,Jan,21
+13,14,toys,3,32,UK South East,2,Jan,21
+14,15,toys,1,31,UK South East,3,Jan,21
+15,16,toys,1,31,UK South East,2,Jan,21
+16,17,toothbrush,1,21,UK North East,3,Oct,21
+17,18,toys,2,35,UK South East,4,Oct,21
+18,19,toothbrush,1,55,UK North,2,Mar,21
+19,20,toothbrush,1,56,UK North East,3,Mar,21
+20,21,toothbrush,2,50,UK North,9,Mar,21
+21,22,toothbrush,1,59,UK North East,5,Mar,21
+22,23,toothbrush,2,60,UK South East,2,Mar,21
+23,24,toothbrush,1,45,UK North East,2,Mar,21
+24,25,toothbrush,1,50,UK North,3,Mar,21
+25,26,toothbrush,1,56,UK North East,2,Mar,21
+26,27,toothbrush,1,50,UK South East,3,Mar,21
+27,28,toothbrush,1,59,UK North East,2,Mar,21
+28,29,toys,2,35,UK South East,3,Mar,21
+29,30,toys,3,32,UK South East,2,Mar,21
+30,31,toys,1,31,UK South East,3,Jan,21
+31,32,toys,1,31,UK South East,2,Jan,21
+32,33,toothbrush,1,21,UK North East,3,Dec,21
+33,34,toothbrush,1,24,UK South East,2,Oct,21
+34,35,toothbrush,1,21,UK North East,3,Dec,21
+35,36,toys,2,35,UK South East,2,Jan,21
+36,37,toys,1,32,UK South East,3,Jan,21
+37,38,toothbrush,1,21,UK North East,2,Dec,21
+38,39,toothbrush,1,24,UK South East,3,Oct,21
+39,40,toothbrush,1,21,UK North East,2,Dec,21
+40,41,toys,2,35,UK South East,3,Jan,21
+41,42,toys,3,32,UK South East,2,Jan,21
+42,43,toys,1,32,UK South East,3,Jan,21
+43,44,toothbrush,1,21,UK North East,2,Dec,21
+44,45,toothbrush,1,24,UK South East,3,Oct,21
+45,46,toothbrush,1,21,UK North East,2,Dec,21
+46,47,toothbrush,1,55,UK North,3,May,21
+47,48,toothbrush,1,56,UK North East,5,May,21
+48,49,toothbrush,1,55,UK North,1,Mar,21
+49,50,toothbrush,1,60,UK North East,2,Mar,21
